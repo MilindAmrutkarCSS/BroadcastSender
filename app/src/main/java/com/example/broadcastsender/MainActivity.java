@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
      *
      * One way to do this is by creating an
      * anonymous inner class
+     * Below one is an anonymous inner class
      */
 
     private BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
